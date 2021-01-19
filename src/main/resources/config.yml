@@ -1,0 +1,9 @@
+area:
+    world: world_nether
+    minX: -100
+    maxX: 100
+    minY: 70
+    maxY: 128
+    minZ: -100
+    maxZ: 100
+    
